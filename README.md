@@ -2,7 +2,7 @@
 
 **Software Engineer** | Backend Development | Event-Driven Architecture | Cloud Solutions
 
-📍 Ahmedabad, Gujarat | 📧 ankitv2717@outlook.com | [LinkedIn](https://linkedin.com/in/ankit2717) | [GitHub](https://github.com/ankitverma2717)
+📍 Ahmedabad, Gujarat | 📧 [Email](ankitv2717@outlook.com) | [LinkedIn](https://linkedin.com/in/ankit2717) | [GitHub](https://github.com/ankitverma2717)
 
 ---
 
