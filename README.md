@@ -1,45 +1,111 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https:ankitverma.live)
-<h1 align="center">Hi 👋, I'm Ankit Verma</h1>
-<h3 align="center">I am a Student, Developer, teacher!!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Hi, I'm Ankit Verma 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitverma273&label=Profile%20views&color=0e75b6&style=flat" alt="ankitverma273" /> </p>
+**Software Engineer** | Backend Development | Event-Driven Architecture | Cloud Solutions
 
-<p align="left"> <a href="https://twitter.com/vermaankit27" target="blank"><img src="https://img.shields.io/twitter/follow/vermaankit27?logo=twitter&style=for-the-badge" alt="vermaankit27" /></a> </p>
+📍 Ahmedabad, Gujarat | 📧 ankitv2717@outlook.com | [LinkedIn](https://linkedin.com/in/ankit2717) | [GitHub](https://github.com/ankitverma2717)
 
-- 🔭 I’m currently working on **Chat Application**
+---
 
-- 🌱 I’m currently learning **Backend Engineering**
+## About Me
 
-- 👯 I’m looking to collaborate on **Everything**
+I'm a Software Engineer at Infor India with a strong focus on building scalable, event-driven microservices and cloud-native solutions. I specialize in designing high-performance systems that process millions of events daily with exceptional reliability.
 
-- 🤝 I’m looking for help with **Spring Boot**
+- 🔭 Currently architecting event-driven microservices processing 10M+ events daily
+- 🌱 Deepening expertise in distributed systems, serverless architecture, and operational excellence
+- 💡 Passionate about automation, reliability engineering, and continuous delivery
+- 🎓 Master of Computer Applications from Nirma University
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankitverma273](https://github.com/ankitverma273)
+---
 
-- 📝 I regularly write articles on [https://medium.com/@ankit.dev273](https://medium.com/@ankit.dev273)
+## Professional Experience
 
-- 💬 Ask me about **Android, APIs, OOPs, UI/UX**
+**Software Engineer** @ Infor India Pvt. Ltd. *(Oct 2024 - Present)*
+- Architected event-driven microservices with Java, Spring Boot, and Apache Kafka achieving 99.9% reliability
+- Built serverless automation workflows using AWS services with self-healing mechanisms
+- Designed GraphQL and RESTful APIs for real-time data pipeline configuration
+- Implemented automated CI/CD pipelines reducing deployment time by 50%
 
-- 📫 How to reach me **ankit.dev273@gmail.com**
+**Full-Stack Developer Intern** @ BridgeHealth Care Pvt. Ltd. *(Dec 2023 - May 2024)*
+- Engineered frontend-backend integration reducing API latency by 60%
+- Built real-time communication features for telemedicine platform
+- Developed automation scripts for data synchronization and cloud services integration
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1abPSM-Ln1Xya2Gyo9WEfmaj6NfFShe8I/view?usp=sharing](https://drive.google.com/file/d/1abPSM-Ln1Xya2Gyo9WEfmaj6NfFShe8I/view?usp=sharing)
+---
 
-- ⚡ Fun fact **Unintentionally funny for some people**
+## Technical Expertise
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vermaankit27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vermaankit27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit273/" height="30" width="40" /></a>
-<a href="https://medium.com/@ankit.dev273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankit.dev273" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/blitzer273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="blitzer273" height="30" width="40" /></a>
-</p>
+**Backend & Languages**
+- Java, Python, JavaScript/TypeScript, Node.js, J2EE
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+**Cloud & Infrastructure**
+- AWS (Lambda, SQS, CloudWatch, Secret Manager)
+- Serverless Architecture, Event-Driven Systems
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitverma273&show_icons=true&locale=en&layout=compact" alt="ankitverma273" /></p>
+**Databases & Caching**
+- MongoDB, PostgreSQL, MySQL, Redis, BigQuery, SQLite
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitverma273&show_icons=true&locale=en" alt="ankitverma273" /></p>
+**Message Queues & Streaming**
+- Apache Kafka, RabbitMQ, AWS SQS, Event Sourcing
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitverma273&" alt="ankitverma273" /></p>
+**Frameworks & APIs**
+- Spring Boot, Spring Security, GraphQL, RESTful APIs, Hibernate/JPA, Microservices
+
+**DevOps & Automation**
+- Docker, GitLab CI/CD, GitHub Actions, Linux/Unix, Git
+
+**Testing & Quality**
+- Test-Driven Development (TDD), JUnit, TestNG, Mockito, Integration Testing
+
+**Monitoring & Observability**
+- AWS CloudWatch, Logging, Alerting, Performance Monitoring
+
+---
+
+## Key Projects
+
+### Data Transformation Engine (DTE)
+*Java | Spring Boot | Kafka | GraphQL | PostgreSQL | Docker*
+- Architected enterprise ETL modules processing 10M+ records daily
+- Achieved 85%+ code coverage with TDD practices, reducing production defects by 70%
+- Designed GraphQL APIs reducing pipeline setup time by 40%
+
+### Real-Time Event Processing Platform
+*Python | AWS Lambda | SQS | MongoDB | CloudWatch*
+- Developed serverless event delivery pipeline handling 100K+ events/second
+- Implemented automated monitoring with self-healing mechanisms
+- Achieved 99.9% delivery success rate with automated failure recovery
+
+### Payment Processing Simulator
+*Java | Spring Boot | Kafka | Redis | PostgreSQL*
+- Built high-performance payment processor handling 100K+ TPS
+- Implemented distributed caching reducing database load by 65%
+- Designed secure RESTful APIs with fraud detection patterns
+
+---
+
+## Certifications
+
+- Goldman Sachs Software Engineering Virtual Experience
+- JP Morgan Software Engineering & Agile Virtual Experience
+- Intel Cloud Pricing & Financial Operations
+- Accenture AI Fundamentals
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit2717)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitverma2717)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitv2717@outlook.com)
+
+---
+
+## GitHub Stats
+
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitverma2717&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma2717&layout=compact&theme=default&hide_border=true)
+
+---
+
+*Open to collaborating on backend engineering, distributed systems, and cloud-native projects.*
