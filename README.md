@@ -19,7 +19,13 @@ I'm a Software Engineer at Infor India with a strong focus on building scalable,
 
 ## Professional Experience
 
-**Software Engineer** @ Infor India Pvt. Ltd. *(Oct 2024 - Present)*
+**Software Engineer** @ EY GDS. *(Jan 2026 - Present)*
+- Architected event-driven microservices with Java, Spring Boot, and Apache Kafka achieving 99.9% reliability
+- Built serverless automation workflows using AWS services with self-healing mechanisms
+- Designed GraphQL and RESTful APIs for real-time data pipeline configuration
+- Implemented automated CI/CD pipelines reducing deployment time by 50%
+
+**Associate Software Engineer** @ Infor India Pvt. Ltd. *(Dec 2024 - Aug 2025)*
 - Architected event-driven microservices with Java, Spring Boot, and Apache Kafka achieving 99.9% reliability
 - Built serverless automation workflows using AWS services with self-healing mechanisms
 - Designed GraphQL and RESTful APIs for real-time data pipeline configuration
